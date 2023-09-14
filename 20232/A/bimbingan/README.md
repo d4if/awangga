@@ -21,15 +21,7 @@ SK : SK. 206/REK-ULBI/VI/2023
 Tgl.SK : 26 Juni 2023
 0.25  
 [lembar pengesahan](./pengesahan-sidang-20222-MuhammadNandaFahriza-ta.pdf)  
-[form bimbingan]()
-
-### Membimbing Laporan akhir studi (pembimbing pendamping) Ikrima Ningrumsari Mulyana
-
-SK : SK. 206/REK-ULBI/VI/2023
-Tgl.SK : 26 Juni 2023
-0.25  
-[lembar pengesahan]()  
-[form bimbingan]()
+[form bimbingan](./1194057-NN257L-nandafahriza06@gmail.com-TUGAS%20AKHIR.pdf)
 
 ### Membimbing Laporan akhir studi (pembimbing pendamping) Dellavianti Nishfi Ilmiah Huda
 
@@ -45,7 +37,7 @@ SK : SK. 206/REK-ULBI/VI/2023
 Tgl.SK : 26 Juni 2023
 0.25  
 [lembar pengesahan](./pengesahan-sidang-20222-Ririn-ta.pdf)  
-[form bimbingan]()
+[form bimbingan](./1194065-NN257L-indriyaniririn42@gmail.com-TUGAS%20AKHIR.pdf)
 
 ### Membimbing Laporan/tugas akhir studi (pembimbing utama) Muhammad Fahri Ramadhan
 
@@ -85,4 +77,12 @@ SK : SK. 206/REK-ULBI/VI/2023
 Tgl.SK : 26 Juni 2023
 0.5  
 [lembar pengesahan](./pengesahan-sidang-20222-Haekal-ta.pdf)  
-[form bimbingan]()
+[form bimbingan](./1194017-TI041L-haekal.hlm@gmail.com-TUGAS%20AKHIR.pdf)
+
+### Membimbing Laporan akhir studi (pembimbing pendamping) Ikrima Ningrumsari Mulyana
+
+SK : SK. 206/REK-ULBI/VI/2023
+Tgl.SK : 26 Juni 2023
+0.25  
+[lembar pengesahan](./bebanlebih)  
+[form bimbingan](./bebanlebih)
