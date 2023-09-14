@@ -69,7 +69,7 @@ SK : SK. 206/REK-ULBI/VI/2023
 Tgl.SK : 26 Juni 2023
 0.5  
 [lembar pengesahan](./pengesahan-sidang-20222-Zaky-ta.pdf)  
-[form bimbingan]()
+[form bimbingan](./1194069-TI117L-zakymuhammadyusuf@gmail.com-TUGAS%20AKHIR.pdf)
 
 ### Membimbing Laporan/tugas akhir studi (pembimbing utama) Petrolina Anastasia Gatto
 
