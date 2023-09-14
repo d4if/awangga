@@ -76,8 +76,8 @@ Tgl.SK : 26 Juni 2023
 SK : SK. 206/REK-ULBI/VI/2023
 Tgl.SK : 26 Juni 2023
 0.5  
-[lembar pengesahan]()  
-[form bimbingan]()
+[lembar pengesahan](./pengesahan-sidang-20222-Petrolina-ta.pdf)  
+[form bimbingan](./1194030-NN258L-linapark1300@gmail.com-TUGAS%20AKHIR.pdf)
 
 ### Membimbing Laporan/tugas akhir studi (pembimbing utama) Haekal Hilmi Zain
 
