@@ -52,7 +52,7 @@ Tgl.SK : 26 Juni 2023
 SK : SK. 206/REK-ULBI/VI/2023
 Tgl.SK : 26 Juni 2023
 0.5  
-[lembar pengesahan]()  
+[lembar pengesahan](./pengesahan-sidang-20222-Fahri-ta.pdf)  
 [form bimbingan](./1194055-NN257L-fahrim42@gmail.com-TUGAS%20AKHIR.pdf)
 
 ### Membimbing Laporan/tugas akhir studi (pembimbing utama) Salsabila Vebi Natasya
